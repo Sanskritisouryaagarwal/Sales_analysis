@@ -2,6 +2,8 @@
 
 This project provides an in-depth analysis of an e-commerce enterprise using **Microsoft Power BI**. The analysis is focused on generating valuable insights from sales data, which help businesses optimize their performance. The project includes visualizations of key business metrics, trends, and forecasts, aimed at facilitating data-driven decision-making.
 
+![Untitled design (19)](https://github.com/user-attachments/assets/e4ef34db-80c4-46d9-b2fa-1416a16f6425)
+
 ---
 
 ## 🎯 Project Aim
@@ -13,6 +15,8 @@ Key highlights include:
 - **Improved decision-making**: The visual insights help stakeholders make data-backed decisions.
 - **Forecasting trends**: Predictive analysis is incorporated to help forecast future sales and profits.
 - **Comprehensive business overview**: The project offers a holistic view of the business performance through interactive dashboards.
+
+![Untitled design (18)](https://github.com/user-attachments/assets/dec18bee-542c-4aa8-903d-a10c41a628c7)
 
 ---
 
