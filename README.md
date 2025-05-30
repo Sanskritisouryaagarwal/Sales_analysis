@@ -118,7 +118,7 @@ By utilizing this dashboard, businesses can improve their strategies, boost sale
 
 If you have any questions, suggestions, or would like to discuss this project, feel free to reach out:
 
-- 📧 Email: [your_email@example.com](mailto:your_email@example.com)
+- 📧 Email: [sanskritisourya8448@gmail.com](mailto:sanskrititsourya8448@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sanskriti-sourya-aagarwal8448/)
 - 🐙 [GitHub](https://github.com/sanskriti-sourya)
 
